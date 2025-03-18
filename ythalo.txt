@@ -1,0 +1,40 @@
+cd Documents
+
+mkdir ythalo_2    
+
+cd ythalo_2		 OBS => criar arquivo no gerenciador de arquivo
+
+ls
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git config user.name "Abndrey"
+
+git config user.email "ythalo.abreu@escola.pr.gov.br"
+
+git commit -a -m "nome que você quiser"
+
+git remote add origin "link que está no git hub"
+
+git branch -M main
+
+git push -u origin main
+
+
+		                   Branchs
+
+git branch => nome da branch
+git checkout => nome da branch
+git merge => nome da branch
+
+	=============>>>>>>>>>AGORA É SÓ CODAR<<<<<<<<<============
+Após codar: git status
+git commit -a -m "qualquer nome"
+git push (vai dar erro, copie esse código=> git push --set-upstream origin ythalo )
+ 				Parabéns, Voçê venceu!!!
