@@ -36,5 +36,7 @@ git merge => nome da branch
 	=============>>>>>>>>>AGORA É SÓ CODAR<<<<<<<<<============
 Após codar: git status
 git commit -a -m "qualquer nome"
-git push (vai dar erro, copie esse código=> git push --set-upstream origin ythalo )
- 				Parabéns, Voçê venceu!!!
+git checkout nome da sua pasta
+git branch para listar a branch
+git merge ythalo
+git push
